@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(168, 6, 6);
+    color:rgb(230, 221, 221);
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
